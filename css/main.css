@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #eeeeee;
+}
+
+header  {
+  padding-left: 18px;
+  padding-top: 26px;
+  height: 60px;
+  }
+
+header i {
+  color: #EDA7B8;
+}
+
+header p {
+  display: inline;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.logo {
+  display: inline;
+}
+
+header ul {
+  float: right;
+  padding-right: 40px;
+  padding-top: 10px
+}
+
+header li {
+  display: inline;
+  padding-right: 20px;
+  font-size: 15px;
+}
+
+hr {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid gray;
+}
+
+#content h1 {
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+#content span {
+  color: #EDA7B8;
+}
+
+#content h3 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 50px;
+}
+
+#content img {
+width: 96%;
+  border-radius: 20px 20px;
+}
+
+.mainImage {
+  text-align: center;
+}
+
+.info h2 {
+  color: #EDA7B8;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.info p {
+  font-size: 13px;
+}
+
+.infoLeft {
+  display: inline;
+  float: left;
+  width: 40%;
+  padding-left: 60px;
+}
+
+.infoRight {
+  display: inline;
+  float: right;
+  width: 40%;
+  padding-right: 60px;
+}
+
+#galleryTop img {
+  height: 150px;
+  width: 15%;
+  margin-top: 70px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+#galleryTop li {
+  display: inline;
+}
+
+#galleryTop ul {
+text-align: center;
+}
+
+#galleryBottom img {
+  height: 150px;
+  width: 15%;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+#galleryBottom li {
+  display: inline;
+}
+
+#galleryBottom ul {
+text-align: center;
+}
+
+.preFooter h1 {
+  font-family: 'Dancing Script', cursive;
+  color: #EDA7B8;
+  font-size: 24px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+#footer {
+  height: 300px;
+  background-color: #2D2D2D;
+}
+
+#footer h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #EDA7B8;
+  font-size: 24px;
+  padding-top: 60px;
+  padding-left: 20px;
+}
+
+form > input,
+form > textarea {
+  background-color: #ECECEC;
+  font-size: 14px;
+  font-family: 'Arimo', sans-serif;
+  display: block;
+  padding: 5px 220px 5px 5px;
+  border: none;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+form > textarea {
+  padding-right: 210px;
+}
+
+form > button {
+  background-color: transparent;
+  padding-top: 10px;
+  padding-left: 20px;
+  font-size: 14px;
+  color: #fff;
+  font-family: 'Arimo', sans-serif;
+  border: none;
+}
+
+.contact {
+  width: 50%;
+  float: left;
+}
+
+.socialMedia i {
+  background-color: #EDA7B8;
+  color: #2D2D2D;
+  padding: 7px;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.socialMedia {
+  float: right;
+  padding-right: 70px;
+  padding-top: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
